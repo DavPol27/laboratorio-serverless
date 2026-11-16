@@ -1,0 +1,17 @@
+{
+    "nombre": "David Alexander",
+    "apellido": "Garcia Polanco",
+    "email": "davidpol270398@gmail.com",
+    "token": "f1358f3e-0b30-48a6-bb0b-18d1e8517c95",
+    "fecha_utc": "2026-11-16T03:04:47.959933+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "4364ea96292d",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "ff540c56b3e3be6732f54a0b1001e484c82e6ccc844843a1946efd9d81fbe076"
+}
